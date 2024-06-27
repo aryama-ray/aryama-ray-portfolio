@@ -1,8 +1,7 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
-
+# Hi! I'm Aryama Ray
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-## Demo
+## Skills
 
 Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
@@ -14,7 +13,7 @@ The post page would look like this:
 
 ![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-## Features
+## Education
 
 - [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](http://fontawesome.io/)
@@ -22,9 +21,11 @@ The post page would look like this:
 - [Analytics](https://analytics.google.com/analytics/web/)
 - Support Emoji
 
-## Installation:
+## Projects
 
 Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+
+## Work Experience
 
 ## License
 
