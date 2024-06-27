@@ -1,5 +1,5 @@
 title: Hi! I'm Aryama Ray
-description: > "Data is a precious thing and will last longer than the systems themselves. - Sir Timothy John Berners-Lee"
+description: > Data is a precious thing and will last longer than the systems themselves.  Sir Timothy John Berners Lee
 
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
